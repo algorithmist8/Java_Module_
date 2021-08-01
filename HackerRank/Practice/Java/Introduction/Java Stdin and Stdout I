@@ -1,0 +1,17 @@
+import java.util.*;
+
+public class Solution {
+    
+    public static void main(String args[]) {
+        
+    int i1,i2,i3;
+    
+    Scanner sc = new Scanner(System.in);
+    i1 = sc.nextInt();
+    i2 = sc.nextInt();
+    i3 = sc.nextInt();
+    
+    System.out.println(i1+"\n"+i2+"\n"+i3);   
+        
+    }
+}
